@@ -14,4 +14,3 @@ if __name__ == '__main__':
     nums = [1,2,3,4]
     print(productExceptSelf(nums))
 
-#Runtime: 240 ms, faster than 99.05% of Python3 online submissions for Product of Array Except Self.
